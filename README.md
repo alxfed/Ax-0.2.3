@@ -19,7 +19,7 @@ optimization and bandit optimization as exploration strategies. Bayesian
 optimization in Ax is powered by [BoTorch](https://github.com/facebookexternal/botorch),
 a modern library for Bayesian optimization research built on PyTorch.
 
-For full documentation and tutorials, see the [Ax website](https://ax.dev)
+For full documentation and tutorials, see the [Ax website](https://ax.dev/versions/0.2.3/)
 
 ## Why Ax?
 
